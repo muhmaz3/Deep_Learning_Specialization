@@ -59,3 +59,6 @@ typings/
 
 # jupyter related
 *ipynb_checkpoints*
+
+# my submission list
+my_submission_list.txt
