@@ -65,3 +65,7 @@ my_submission_list.txt
 
 #
 __pycache__
+
+# large files
+*XY_dev*
+*XY_train*
