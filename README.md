@@ -10,11 +10,12 @@ Below I just briefly describe what I have learned from this specialization.
 Firstly starting from single neuron to do logistic regression, and then the lecturer went further into Deep Nerual Network. In the meantime, the professor introduced Computation Graph. I believe it is a very important basic concept since it specified forward path and backward path clearly, and thereby showing how gradients are updated. Finally, the lecturer made comparison between shallow network and deep network, and then gave intuition about why deep network work better.
 
 ### Course2: Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization
-Firstly illustrating the problem of overfitting, and then the lecturer introduced a normalization skill called Dropout. The weights also needed to be initialized properly according to the activation function each neuron adopted. When the course went to the Optimization part, the professor introduced two crucial optimization algorithm, RMSprop and Adam, respectively. Finally, the speeker demoed the usage of Tensorflow. The amazing feature of the open-sourced library is that it will automatically compute each derivatives on the backward path once the network is specified. 
+Firstly illustrating the problem of overfitting, and then the lecturer introduced a normalization skill called Dropout. The weights also needed to be initialized properly according to the activation function each neuron adopted. When the course went to the Optimization part, the professor introduced two crucial optimization algorithm, RMSprop and Adam, respectively. Finally, the speeker demoed the usage of Tensorflow. The amazing feature of the open-sourced library is that it will automatically compute each derivatives on the backward path once the architecture of network is specified. 
 
 ### Course3: Structuring Machine Learning Projects
-This course gave me spectacularly retrospective experience. I time-travaled through each milestones of CNN, and they were Lenet-5, AlexNet, VGG, ResNet and InceptionNet, chronologically. Next, the lecturer introduced YOLO, a efficient algorithm for object detection since it only look once on each grid in the image. Finally, the interesting topics, Face Recognition and Neural Style Transfer were present. 
+
 
 ### Course4: Convolutional Neural Networks
+This course gave me spectacularly retrospective experience. I time-travaled through each milestones of CNN, and they were Lenet-5, AlexNet, VGG, ResNet and InceptionNet, chronologically. Next, the lecturer introduced YOLO, a efficient algorithm for object detection since it only look once on each grid in the image. Finally, the interesting topics, Face Recognition and Neural Style Transfer, were present.
 
 ### Course5: Sequence Models
