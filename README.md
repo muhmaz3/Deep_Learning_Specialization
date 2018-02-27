@@ -6,12 +6,12 @@ This is my personal source codes for the homework assignments in order to pass t
 Lecturer: Andrew Ng, DeepLearning.ai
 
 Below I just briefly describe what I have learned from this specialization.
-### Course1-Neural Networks and Deep Learning
+#### Course1: Neural Networks and Deep Learning
 
-### Course2-Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization
+#### Course2: Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization
 
-### Course3-Structuring Machine Learning Projects
+#### Course3: Structuring Machine Learning Projects
 
-### Course4-Convolutional Neural Networks
+#### Course4: Convolutional Neural Networks
 
-### Course5-Sequence Models
+#### Course5: Sequence Models
