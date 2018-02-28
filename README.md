@@ -16,6 +16,7 @@ Firstly illustrating the problem of overfitting, and then the lecturer introduce
 
 
 ### Course4: Convolutional Neural Networks
-This course gave me spectacularly retrospective experience. I time-travaled through each milestones of CNN, and they were Lenet-5, AlexNet, VGG, ResNet and InceptionNet, chronologically. Next, the lecturer introduced YOLO, a efficient algorithm for object detection since it only look once on each grid in the image. Finally, the interesting topics, Face Recognition and Neural Style Transfer, were present.
+This course gave me spectacularly retrospective experience. That was, I time-travaled through each milestones of CNNs, which were Lenet-5, AlexNet, VGG, ResNet and InceptionNet, chronologically. Next, the lecturer introduced YOLO, a efficient algorithm for object detection since it only look once on each grid in the image. Finally, the interesting topics, Face Recognition and Neural Style Transfer, were present.
 
 ### Course5: Sequence Models
+Firstly, the lecturer stated different architectures between RNN, Bidirectional RNN and LSTM. Next, he illustated a magnificent word representation skill called Word Embeddings, which allowed the performance of NLP-related application improved by a large degree. When the journey came to Sequence to Sequence architectures, the professor introduced a very efficient search algorithm called Beam Search. Finally, the interesting topics involved Attention Model and Speech Recognition.
