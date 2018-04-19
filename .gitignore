@@ -69,3 +69,6 @@ __pycache__
 # large files
 *XY_dev*
 *XY_train*
+
+# org related
+*org*
